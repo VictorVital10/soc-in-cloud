@@ -1,4 +1,4 @@
-# 🛡️ SOC Virtual Lab em Cloud - Projeto com Ferramentas Open Source
+# 🛡️ SOC in Cloud - Projeto 100% Funcional com Ferramentas Open Source
 
 Este repositório documenta o desenvolvimento de um **laboratório SOC (Security Operations Center)** funcional, construído na **Google Cloud Platform (GCP)** com foco em ferramentas **open source** e aplicação de conceitos práticos de **cibersegurança, resposta a incidentes e infraestrutura em nuvem**.
 
