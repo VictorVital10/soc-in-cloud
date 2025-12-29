@@ -83,6 +83,6 @@ Veja imagens do ambiente, alertas e dashboards na pasta `/images` deste reposit�
 
 **Victor Araujo Vital**  
 
-📌 LinkedIn: [https://www.linkedin.com/in/victor-vital-6b6761275/](https://www.linkedin.com/in/victor-vital-6b6761275/)
+📌 LinkedIn: [https://www.linkedin.com/in/victorvitall/](https://www.linkedin.com/in/victorvitall/)
 
 ---
